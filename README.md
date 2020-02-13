@@ -1,7 +1,14 @@
 # TITLE 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
-Text 
+## About this Repository
+
+FLINT Users have indicated that ... 
+
+This repository includes: 
+ * A science folder with...
+ * Code folders with ...
+
 
 ## How to Get Involved?  
 
@@ -19,6 +26,10 @@ moja global welcomes a wide range of contributions as explained in [Contributing
   
 
 ## Contributors
+
+Thanks to the following organisations for their financial support:
+
+<img src="http://www.levert.ma/wp-content/uploads/2018/12/UNFCCC-LOGO-1024x853.jpg" width="140px;"/>
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
