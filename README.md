@@ -2,13 +2,18 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 
-## About this Repository
+## About Uncertainty
 
 Uncertainty assessment is important for land based greenhouse gas estimation, as it is incorporated in all aspects of reporting, from national greenhouse gas inventories through to results-based payments for REDD+. The purpose of repository is to provide tools and modules for implementing two commonly used IPCC methods for combining uncertainties within the FLINT framework. The two commonly used methods are the Propagation of Error and Monte Carlo methods for combining uncertainties. 
 
-This repository includes: 
- * A science folder with the key design considerations.
- * Code folders with tool are under development.
+For an introduction to the two methods please have a look at ["Uncertainty Modules for FLINT"](https://github.com/moja-global/FLINT.uncertainty/blob/master/Uncertainty%20Modules%20for%20FLINT.pdf)
+
+For an in depth review of the science behind the uncertainty modules please review the [Design for Monte Carlo and Propagation of Error Uncertainty in the Full Lands Integration Tool](https://github.com/moja-global/FLINT.uncertainty/blob/master/Science/Design%20for%20Monte%20Carlo%20and%20Propagation%20of%20Error%20Uncertainty%20in%20the%20Full%20Lands%20Integration%20Tool.pdf).
+
+For an explanation of the code and functionality of the Modules please review [FLINT Uncertainty Manual](https://github.com/moja-global/FLINT.uncertainty/blob/master/FLINT%20Design/FLINT%20Uncertainty%20Manual.pdf). 
+
+An example implementation is available [here]().
+
 
 
 ## How to Get Involved?  
