@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/malfrancis"><img src="https://avatars0.githubusercontent.com/u/5935221?v=4" width="100px;" alt=""/><br /><sub><b>Mal</b></sub></a><br /><a href="https://github.com/moja-global/FLINT.uncertainty/commits?author=malfrancis" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/GeoffRoberts"><img src="https://avatars1.githubusercontent.com/u/12243530?v=4" width="100px;" alt=""/><br /><sub><b>GeoffRoberts</b></sub></a><br /><a href="https://github.com/moja-global/FLINT.uncertainty/commits?author=GeoffRoberts" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mtbdeligt"><img src="https://avatars3.githubusercontent.com/u/16447169?v=4" width="100px;" alt=""/><br /><sub><b>Robert de Ligt</b></sub></a><br /><a href="https://github.com/moja-global/FLINT.uncertainty/commits?author=mtbdeligt" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt=""/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="https://github.com/moja-global/FLINT.uncertainty/commits?author=gmajan" title="Documentation">📖</a></td>
   </tr>
 </table>
 
